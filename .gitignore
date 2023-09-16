@@ -4,8 +4,8 @@ node_modules
 **/dist/**/*.map
 **/dist/**/*.js
 
-# manually ignored files
-
+# Do not commit private tests, they may contain credentials
+**/src/*.private.test.ts
 
 # local testing
 testing
