@@ -1,0 +1,12 @@
+node_modules
+
+# Ignores compiled TypeScript files
+**/dist/**/*.map
+**/dist/**/*.js
+
+# manually ignored files
+
+
+# local testing
+testing
+coverage
