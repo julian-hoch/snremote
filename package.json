@@ -1,6 +1,6 @@
 {
   "name": "snremote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remote access to servicenow instances",
   "main": "index.js",
   "scripts": {
